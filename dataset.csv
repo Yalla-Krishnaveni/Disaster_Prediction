@@ -1,0 +1,61 @@
+Year,Disastergroup,Disastersubgroup,Disastertype,Dist,Startm,Startd,Endm,Endd,Mortality,Total damage
+2014,1,1,1,1,6,9,9,9,4,"i)Crops in 11,777 hectares ii)damage to 963 houses"
+2014,1,1,1,20,10,27,10,27,0,"Damage to paddy,cotton crops"
+2014,1,1,1,11,6,9,7,9,1,"i)Crops in 8,345hectares"
+2014,1,1,1,10,6,9,9,9,1,i)Crops in 3000 hectares ii)damage to 345 houses
+2014,1,1,1,32,6,9,9,9,2,i)Crops in 7000 hectares ii)damage to 234 houses
+2014,2,3,4,16,7,24,7,24,18,"30 people injured,damege of roads"
+2015,1,1,1,1,4,6,4,12,1,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,10,4,6,4,12,1,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,11,4,6,4,12,2,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,14,4,6,4,12,0,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,16,4,6,4,12,0,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,20,4,6,4,12,0,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,23,4,6,4,12,1,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,26,4,6,4,12,0,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,1,1,32,4,6,4,12,3,i) Damage to 40131.88 hectares of Agricultual crops & 35175.2 hectares of Horticulture crops reported. ii) Damage to about 286 houses
+2015,1,2,3,14,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,1,2,3,16,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,1,2,3,23,4,10,11,24,2,"Damage to crops,decrease in ground water level"
+2015,1,2,3,10,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,1,2,3,20,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,1,2,3,26,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,1,2,3,32,4,10,11,24,0,"Damage to crops,decrease in ground water level"
+2015,2,3,4,4,5,21,5,21,2,30 people injured
+2016,1,1,1,33,1,9,10,30,49,"Damage to paddy,cotton crops"
+2016,1,1,1,10,2,3,2,3,0,"Damage of 2585 ,254,350 hectares of maize,Banana and chilli crops"
+2016,1,1,1,4,9,31,9,31,7,i)Innudation of low lying areas ii)Damage of thousands of cars iii)Water logging in the city
+2016,1,1,1,4,1,9,10,30,49,"Damage to paddy,cotton crops"
+2016,1,1,1,11,2,3,2,3,0,"Damage of 1020,154,150 hectares of maize,Banana and chilli crops"
+2016,1,1,1,23,2,3,2,3,0,"Damage of 1000 ,223,230 hectares of maize,Banana and chilli crops"
+2016,1,1,1,32,2,3,2,3,0,"Damage of 2345 ,223,130 hectares of maize,Banana and chilli crops"
+2016,1,1,1,9,1,9,3,30,5,Damage to paddy crops
+2016,1,1,1,10,1,9,2,30,4,Damage to  crops
+2016,1,1,1,14,1,9,3,30,3,Damage to  crops
+2016,1,1,1,16,1,9,3,30,2,"Damage to paddy,cotton crops"
+2016,1,1,1,17,1,9,2,30,3,Damage to paddy crops
+2016,1,1,1,20,1,9,4,30,4,Damage to cotton crops
+2016,1,1,1,23,1,9,3,30,6,"Damage to paddy,cotton crops"
+2016,1,1,1,27,1,9,2,30,7,"Damage to paddy,cotton crops"
+2016,1,1,1,26,1,9,3,30,8,"Damage to paddy,cotton crops"
+2016,1,1,1,32,1,9,2,30,5,Damage to paddy crops
+2016,2,3,4,4,1,5,1,5,1,15 people injured
+2016,2,3,4,4,7,16,7,16,4,Property damage
+2017,1,1,1,4,10,14,15,10,0,Damage of roads
+2017,1,1,1,17,10,14,15,10,0,Damage of roads
+2017,1,1,1,26,10,14,15,10,0,Damage of roads
+2017,2,3,4,4,10,1,10,1,6,12 people injured
+2018,2,3,4,5,9,14,9,14,57,Loss of property
+2018,2,3,4,5,9,11,9,11,61,75 people injured
+2018,2,3,4,16,7,29,7,29,7,4 people injured
+2018,2,3,4,10,5,29,5,29,9,14 people injured
+2018,2,3,4,4,5,27,5,27,10,20 people injured
+2018,2,3,4,4,5,26,5,28,11,20 people injured
+2019,2,3,4,4,11,11,11,11,5,12 people injured
+2020,1,1,2,4,10,11,2,14,98,681 billions rupees
+2021,1,1,2,23,9,28,9,29,5,Much property damage
+2021,1,2,5,4,7,7,7,7,0,0
+2021,1,2,5,10,10,23,10,23,0,0
+2021,1,1,2,9,9,28,9,29,1,Much property damage
+2021,1,1,2,26,9,28,9,29,2,Much property damage
+2021,1,1,2,4,9,28,9,29,2,Much property damage
